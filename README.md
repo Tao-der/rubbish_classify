@@ -1,5 +1,6 @@
 # rubbish_classify
 使用tensorflow框架编写的垃圾分类装置，带gui，可以显示重量、种类、播放宣传视频等。
+
 运行环境：
    TensorFlow2.0
    mysql
@@ -21,3 +22,5 @@ pip install cryptography -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 4、运行 Detection.py即可检测
 
+权重文件：链接：https://pan.baidu.com/s/1Z0dqoITs_drddbm7JI7HsQ?pwd=ovg4 
+提取码：ovg4 
