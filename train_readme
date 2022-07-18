@@ -1,0 +1,7 @@
+1、数据处理
+    1.1 修改data-config中的路径为自己图片存放路径,把数据全部放到该目录下的train-img文件夹中
+    1.2 运行data_preparation_val 把90%数据作为训练 10%作为验证
+    1.2 运行data_preparation_test 把验证集中的5%数据作为验证 5%作为测试
+
+2 train
+    运行 resnet50_train.py 开始训练
